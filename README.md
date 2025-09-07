@@ -1,7 +1,7 @@
 # Myntra.Com Clone
 
 
-Myntra is an Indian fashion e-commerce company headquartered in Bengaluru, India. Myntra is a one-stop shop for all your fashion and lifestyle needs. Being India’s largest e-commerce store for fashion and lifestyle products, Myntra aims at providing a hassle-free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal. Myntra is the first e-commerce company to have its own private label ‘M’ and has also partnered with international brands like Kate Spade, Madewell, Topshop, Jack & Jones and more. The company has a wide range of products for men as well as women across categories like footwear, apparel, accessories and home decor.
+Myntra is a leading Indian fashion e-commerce company headquartered in Bengaluru. Serving as a one-stop destination for fashion and lifestyle needs, it offers shoppers across the country a seamless and enjoyable shopping experience. As India’s largest online fashion and lifestyle store, Myntra hosts an extensive range of brands and products on its platform. Notably, it was the first e-commerce company in India to launch its own private label, M. In addition, Myntra has partnered with prominent international brands such as Kate Spade, Madewell, Topshop, and Jack & Jones, among others. Its diverse catalog spans apparel, footwear, accessories, and home decor for both men and women.
 
 ---
 
@@ -40,7 +40,7 @@ To run this application on your local system
 - Cart with Crud Operations.
 - Payment Pages.
 - Footer for navigating to different social Media Pages.
-- 
+
 
 ## Steps to navigate the website:
 
