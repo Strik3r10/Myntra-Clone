@@ -95,4 +95,4 @@ To run this application on your local system
 ## Authors
 
 
-**. [Debraj Roy](https://github.com/debrajj) **
+**. [Owais Farooqui](https://github.com/Strik3r10) **
