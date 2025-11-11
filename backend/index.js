@@ -34,7 +34,10 @@ app.use("/note",noteroute)
 
 
 
-app.listen(9864,async()=>{
+const PORT = process.env.PORT || 9864;
+
+app.listen(PORT, async () => {
+
     try {
         await connection
         console.log({"msg":"db is running"})
